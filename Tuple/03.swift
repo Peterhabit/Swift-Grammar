@@ -1,0 +1,1 @@
+var (myInt, _, myString) = myTuple  //부동 소수점 수는 무시
